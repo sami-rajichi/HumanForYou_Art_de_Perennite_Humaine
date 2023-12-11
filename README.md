@@ -62,10 +62,10 @@ Chaque fichier de code contient des commentaires détaillés expliquant les choi
 
 ## Contributeurs
 
-- Sami RAJICHI
-- Mazen BOUJEZZA
-- Wiem MEDIMAGH
+- [Sami RAJICHI](https://www.linkedin.com/in/sami-rajichi/)
+- [Mazen BOUJEZZA](https://www.linkedin.com/in/mazen-boujezza-677560199/)
+- [Wiem MEDIMAGH](https://www.linkedin.com/in/wiem-medimagh-b8310a213/)
 
 ## License
 
-Ce projet est sous licence [Apache License 2.0](LICENSE). Consultez le fichier LICENSE.md pour plus de détails.
+Ce projet est sous licence [Apache License 2.0](LICENSE).
